@@ -1,0 +1,23 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+.env
+.nitro
+.tanstack
+.wrangler
+.output
+.vinxi
+__unconfig*
+todos.json
+.env.*
+!.env.example
+.cta.json
+.vscode/
+# Earlier locally downloaded game art has no verified redistribution grant.
+# It is neither committed nor used as Vite's public directory.
+/public/
+coverage/
+/static/dependency-licenses.txt
+/static/LICENSE.txt
